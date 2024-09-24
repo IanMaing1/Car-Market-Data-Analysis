@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes the car market in Australia using detailed data such as car brand, model, price, mileage, engine capacity, and more. The goal is to explore trends, identify popular brands and car types, analyze price trends over time, and compare different car attributes like gearbox, fuel type, and engine capacity. This analysis provides insights into the car market's structure, helping to understand key market dynamics like brand popularity and price distribution.
 
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/f91f2428-0bb4-43b2-b2e2-0ce7de33efd0">
+
+
+
 ## Data Source
 The dataset used for this analysis was extracted from Kaggle. It contains detailed information on various attributes of cars in Australia, including car price, brand, year, mileage, fuel type, and engine capacity.
 
